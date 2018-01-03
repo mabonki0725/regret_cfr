@@ -1,9 +1,9 @@
 # regret_cfr
 
 
-##1-5cards by 3 member  
-###Stage as  First card memberNo pose/bet
-###Show recommend probability by next aciton=(pose or Bet)
+## 1-5cards by 3 member  
+### Stage as  First card memberNo pose/bet  
+### Show recommend probability by next aciton=(pose or Bet)  
   
     
 Average game value:0.287981   
