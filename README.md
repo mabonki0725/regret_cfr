@@ -2,7 +2,10 @@
 
 
 ##1-5cards by 3 member  
+###Stage as  First card memberNo pose/bet
+###Show recommend probability by next aciton=(pose or Bet)
   
+    
 Average game value:0.287981   
 4card  
    action=Pose  avrage=0.004410   
@@ -31,7 +34,7 @@ Average game value:0.287981
 3card 2p  
    action=Pose  avrage=0.711650  
    action=Bet   avrage=0.288350  
-3card 2pb 
+3card 2pb  
    action=Pose  avrage=0.001001  
    action=Bet   avrage=0.998999  
 3card 3b  
