@@ -1,156 +1,156 @@
 # regret_cfr
 
 
-##1-5cards by 3 member
-
-Average game value:0.287981 
-4card 
-   action=Pose  avrage=0.004410 
-   action=Bet   avrage=0.995590 
-4card 2p
-   action=Pose  avrage=0.019243 
-   action=Bet   avrage=0.980757 
-4card 3pb
-   action=Pose  avrage=0.001131 
-   action=Bet   avrage=0.998869 
-4card 1b
-   action=Pose  avrage=0.000747 
-   action=Bet   avrage=0.999253 
-3card 
-   action=Pose  avrage=0.994308 
-   action=Bet   avrage=0.005692 
-3card 1p
-   action=Pose  avrage=0.715343 
-   action=Bet   avrage=0.284657 
-3card 3pb
-   action=Pose  avrage=0.001012 
-   action=Bet   avrage=0.998988 
-3card 1b
-   action=Pose  avrage=0.001157 
-   action=Bet   avrage=0.998843 
-3card 2p
-   action=Pose  avrage=0.711650 
-   action=Bet   avrage=0.288350 
-3card 2pb
-   action=Pose  avrage=0.001001 
-   action=Bet   avrage=0.998999 
-3card 3b
-   action=Pose  avrage=0.007379 
-   action=Bet   avrage=0.992621 
-1card 
-   action=Pose  avrage=0.999751 
-   action=Bet   avrage=0.000249 
-1card 1p
-   action=Pose  avrage=0.999611 
-   action=Bet   avrage=0.000389 
-1card 1pb
-   action=Pose  avrage=0.999708 
-   action=Bet   avrage=0.000292 
-1card 3b
-   action=Pose  avrage=0.999448 
-   action=Bet   avrage=0.000552 
-4card 3p
-   action=Pose  avrage=0.008656 
-   action=Bet   avrage=0.991344 
-4card 2pb
-   action=Pose  avrage=0.003741 
-   action=Bet   avrage=0.996259 
-4card 2b
-   action=Pose  avrage=0.001005 
-   action=Bet   avrage=0.998995 
-1card 2p
-   action=Pose  avrage=0.999247 
-   action=Bet   avrage=0.000753 
-1card 2pb
-   action=Pose  avrage=0.998960 
-   action=Bet   avrage=0.001040 
-1card 2b
-   action=Pose  avrage=0.998918 
-   action=Bet   avrage=0.001082 
-5card 
-   action=Pose  avrage=0.002274 
-   action=Bet   avrage=0.997726 
-5card 2p
-   action=Pose  avrage=0.004293 
-   action=Bet   avrage=0.995707 
-5card 3pb
-   action=Pose  avrage=0.001128 
-   action=Bet   avrage=0.998872 
-5card 3b
-   action=Pose  avrage=0.000783 
-   action=Bet   avrage=0.999217 
-2card 
-   action=Pose  avrage=0.999751 
-   action=Bet   avrage=0.000249 
-2card 3p
-   action=Pose  avrage=0.999301 
-   action=Bet   avrage=0.000699 
-2card 3pb
-   action=Pose  avrage=0.252349 
-   action=Bet   avrage=0.747651 
-2card 1b
-   action=Pose  avrage=0.821005 
-   action=Bet   avrage=0.178995 
-1card 3pb
-   action=Pose  avrage=1.000000 
-   action=Bet   avrage=0.000000 
-2card 1p
-   action=Pose  avrage=0.998437 
-   action=Bet   avrage=0.001563 
-2card 2b
-   action=Pose  avrage=0.111200 
-   action=Bet   avrage=0.888800 
-4card 1pb
-   action=Pose  avrage=0.001151 
-   action=Bet   avrage=0.998849 
-2card 2pb
-   action=Pose  avrage=0.502903 
-   action=Bet   avrage=0.497097 
-2card 3b
-   action=Pose  avrage=0.646351 
-   action=Bet   avrage=0.353649 
-4card 1p
-   action=Pose  avrage=0.001156 
-   action=Bet   avrage=0.998844 
-4card 3b
-   action=Pose  avrage=0.000761 
-   action=Bet   avrage=0.999239 
-5card 1p
-   action=Pose  avrage=0.001399 
-   action=Bet   avrage=0.998601 
-5card 1pb
-   action=Pose  avrage=0.000542 
-   action=Bet   avrage=0.999458 
-1card 1b
-   action=Pose  avrage=1.000000 
-   action=Bet   avrage=0.000000 
-3card 3p
-   action=Pose  avrage=0.989238 
-   action=Bet   avrage=0.010762 
-2card 2p
-   action=Pose  avrage=0.999237 
-   action=Bet   avrage=0.000763 
-2card 1pb
-   action=Pose  avrage=0.936695 
-   action=Bet   avrage=0.063305 
-1card 3p
-   action=Pose  avrage=0.500000 
-   action=Bet   avrage=0.500000 
-3card 2b
-   action=Pose  avrage=0.007183 
-   action=Bet   avrage=0.992817 
-5card 1b
-   action=Pose  avrage=0.000721 
-   action=Bet   avrage=0.999279 
-5card 3p
-   action=Pose  avrage=0.001124 
-   action=Bet   avrage=0.998876 
-3card 1pb
-   action=Pose  avrage=0.013992 
-   action=Bet   avrage=0.986008 
-5card 2b
-   action=Pose  avrage=0.000731 
-   action=Bet   avrage=0.999269 
-5card 2pb
-   action=Pose  avrage=0.001044 
-   action=Bet   avrage=0.998956 
+##1-5cards by 3 member  
+  
+Average game value:0.287981   
+4card  
+   action=Pose  avrage=0.004410   
+   action=Bet   avrage=0.995590  
+4card 2p  
+   action=Pose  avrage=0.019243  
+   action=Bet   avrage=0.980757  
+4card 3pb  
+   action=Pose  avrage=0.001131   
+   action=Bet   avrage=0.998869  
+4card 1b  
+   action=Pose  avrage=0.000747   
+   action=Bet   avrage=0.999253  
+3card  
+   action=Pose  avrage=0.994308  
+   action=Bet   avrage=0.005692  
+3card 1p  
+   action=Pose  avrage=0.715343  
+   action=Bet   avrage=0.284657  
+3card 3pb  
+   action=Pose  avrage=0.001012  
+   action=Bet   avrage=0.998988  
+3card 1b  
+   action=Pose  avrage=0.001157  
+   action=Bet   avrage=0.998843  
+3card 2p  
+   action=Pose  avrage=0.711650  
+   action=Bet   avrage=0.288350  
+3card 2pb 
+   action=Pose  avrage=0.001001  
+   action=Bet   avrage=0.998999  
+3card 3b  
+   action=Pose  avrage=0.007379  
+   action=Bet   avrage=0.992621  
+1card  
+   action=Pose  avrage=0.999751  
+   action=Bet   avrage=0.000249  
+1card 1p  
+   action=Pose  avrage=0.999611  
+   action=Bet   avrage=0.000389  
+1card 1pb  
+   action=Pose  avrage=0.999708  
+   action=Bet   avrage=0.000292  
+1card 3b  
+   action=Pose  avrage=0.999448  
+   action=Bet   avrage=0.000552  
+4card 3p  
+   action=Pose  avrage=0.008656  
+   action=Bet   avrage=0.991344  
+4card 2pb  
+   action=Pose  avrage=0.003741  
+   action=Bet   avrage=0.996259  
+4card 2b  
+   action=Pose  avrage=0.001005  
+   action=Bet   avrage=0.998995  
+1card 2p  
+   action=Pose  avrage=0.999247  
+   action=Bet   avrage=0.000753  
+1card 2pb  
+   action=Pose  avrage=0.998960  
+   action=Bet   avrage=0.001040  
+1card 2b  
+   action=Pose  avrage=0.998918  
+   action=Bet   avrage=0.001082  
+5card  
+   action=Pose  avrage=0.002274  
+   action=Bet   avrage=0.997726  
+5card 2p  
+   action=Pose  avrage=0.004293  
+   action=Bet   avrage=0.995707  
+5card 3pb  
+   action=Pose  avrage=0.001128   
+   action=Bet   avrage=0.998872  
+5card 3b  
+   action=Pose  avrage=0.000783  
+   action=Bet   avrage=0.999217  
+2card  
+   action=Pose  avrage=0.999751  
+   action=Bet   avrage=0.000249  
+2card 3p  
+   action=Pose  avrage=0.999301   
+   action=Bet   avrage=0.000699  
+2card 3pb  
+   action=Pose  avrage=0.252349  
+   action=Bet   avrage=0.747651  
+2card 1b  
+   action=Pose  avrage=0.821005  
+   action=Bet   avrage=0.178995  
+1card 3pb  
+   action=Pose  avrage=1.000000  
+   action=Bet   avrage=0.000000  
+2card 1p  
+   action=Pose  avrage=0.998437  
+   action=Bet   avrage=0.001563  
+2card 2b  
+   action=Pose  avrage=0.111200  
+   action=Bet   avrage=0.888800  
+4card 1pb  
+   action=Pose  avrage=0.001151  
+   action=Bet   avrage=0.998849  
+2card 2pb  
+   action=Pose  avrage=0.502903  
+   action=Bet   avrage=0.497097  
+2card 3b  
+   action=Pose  avrage=0.646351  
+   action=Bet   avrage=0.353649  
+4card 1p  
+   action=Pose  avrage=0.001156  
+   action=Bet   avrage=0.998844  
+4card 3b  
+   action=Pose  avrage=0.000761  
+   action=Bet   avrage=0.999239  
+5card 1p  
+   action=Pose  avrage=0.001399  
+   action=Bet   avrage=0.998601  
+5card 1pb  
+   action=Pose  avrage=0.000542   
+   action=Bet   avrage=0.999458  
+1card 1b  
+   action=Pose  avrage=1.000000  
+   action=Bet   avrage=0.000000  
+3card 3p  
+   action=Pose  avrage=0.989238  
+   action=Bet   avrage=0.010762  
+2card 2p  
+   action=Pose  avrage=0.999237  
+   action=Bet   avrage=0.000763  
+2card 1pb  
+   action=Pose  avrage=0.936695  
+   action=Bet   avrage=0.063305  
+1card 3p  
+   action=Pose  avrage=0.500000  
+   action=Bet   avrage=0.500000  
+3card 2b  
+   action=Pose  avrage=0.007183  
+   action=Bet   avrage=0.992817  
+5card 1b  
+   action=Pose  avrage=0.000721  
+   action=Bet   avrage=0.999279  
+5card 3p  
+   action=Pose  avrage=0.001124  
+   action=Bet   avrage=0.998876  
+3card 1pb  
+   action=Pose  avrage=0.013992  
+   action=Bet   avrage=0.986008  
+5card 2b  
+   action=Pose  avrage=0.000731  
+   action=Bet   avrage=0.999269  
+5card 2pb  
+   action=Pose  avrage=0.001044  
+   action=Bet   avrage=0.998956  
